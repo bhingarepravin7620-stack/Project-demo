@@ -2,4 +2,4 @@
 This is my first Git Repository.
 <br>
 <br>
-Author- Pravin Bhingare
+Author- Pravin (apna college)
